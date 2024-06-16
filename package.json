@@ -1,9 +1,9 @@
 {
   "name": "twinevgeni-puppeteer-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Evgenii Izhboldin @twinevgeni",
   "main": "index.js",
   "dependencies": {
-    "puppeteer-core": "^21.0.0"
+    "puppeteer-core": "^22.0.0"
   }
 }
